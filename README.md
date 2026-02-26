@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&random=false&width=650&height=90&lines=%3E_+Initializing+System...;%3E_+Welcome+to+My+Profile;%3E_+I'M+CHANCHAV+SOM;%3E_+Web+Developer;%3E_+Mobile+Developer;%3E_+Tools+Developer;%3E_+Ready+to+Connect+%3C3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&random=false&width=650&height=90&lines=%3E_+Initializing+System...;%3E_+Welcome+to+My+Profile;%3E_+I'M+CHANCHAV;%3E_+Web+Developer;%3E_+Mobile+Developer;%3E_+Tools+Developer;%3E_+Ready+to+Connect+%3C3" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">
@@ -124,15 +124,12 @@
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 ## 🎮 Interactive Zone
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-  <br>
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
